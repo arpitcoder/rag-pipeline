@@ -1,0 +1,7 @@
+PyMuPDF==1.19.6  # For PDF extraction (PyMuPDF)
+sentence-transformers==2.2.2  # For embedding generation
+faiss-cpu==1.7.2  # For vector similarity search
+openai==0.10.2  # OpenAI GPT API
+langchain==0.0.103  # For text splitting
+numpy==2.1.1  # For numerical operations
+
